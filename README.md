@@ -21,18 +21,6 @@ Resources
 -   [Binary Search Tree](https://alx-intranet.hbtn.io/rltoken/qO5dBlMnYJzbaWG3xVpcnQ "Binary Search Tree")
 -   [Data structures: Binary Tree](https://alx-intranet.hbtn.io/rltoken/BeyJ2gjlE7_djwRiDyeHig "Data structures: Binary Tree")
 
-<details>
-<summary>Data structures</summary><br>
-<a href='https://postimg.cc/pyMqBykB' target='_blank'><img src='https://i.postimg.cc/nVCgpDDN/image.png' border='0' alt='image'/></a>
-<ul>
-  <li>Links from screenshot
-  <ul>
-      <li><a href="https://github.com/holbertonschool/0x1C.c">Print function</a></li>
-  </ul>
-  </li>
-</ul>
-</details>
-
 Learning Objectives
 -------------------
 
